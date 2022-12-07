@@ -1,0 +1,48 @@
+I've cleared out this repository initially and left it alone for quite some time.
+
+I was able to recently add a new file by signing into a browser and accessing my github account via web browser.
+
+I'll begin this series with an introduction to the scope of the material and name the selections we'll be going over
+
+hello world is a reference to a very special concept when you begin learning programming theory and coding and scpriting for the web or for any software application 
+for any computer system
+
+its important when we talk about programming to identify computers and their purpose so we understand that this term may apply to systems without user interfaces
+
+the foundation of our computing power as the human species is that we utilize electricity as a resource
+we've created power grid networks to light up cities worldwide
+
+when we talk about computer programming we refer to any system to be implemented for one of these applications 
+and to adopt and utilize the established business standards adhering to lexicographic and syntactical reference guides 
+for different scopes and different platforms or applications
+the computer as we've come to understand and apply it have four 
+to five fundamental utilities depending on how you classify them: to create copy delete save and transfer information
+
+embedded computers are becoming more prevalent with form factor scaling and advances in computing technologies
+utilizing the radio technologies we have established communications networks specifically for transmitting images video and audio as well as text
+
+
+so you'll encounter computer controllers in traffic lights, media entertainment controllers, elevators, vehicles, point of sale systems, as well as mobile cellular phones
+
+the term hello world is a pop culture reference to the capitalist idea of the internet
+
+when you create a text message for a user via a computer terminal and send it to the network for discovery by others you would feel an instant publishers gratification
+the creators of the internet have monetized and sensationalized the access of information
+
+the most popular hello world programs are the first syntactical guides to internet markup programming and scripting languages
+
+we call virtually every first lesson in a web programming language tutorial that allows any sort of text output a hello world program
+
+when you need to include specific operability features and attributes into your system you need to find a system design reference to help you design a functional model for your own project
+
+
+so when we write simple scripting codes to display text messages on a network system all of our professional standards have creepy stylistic references 
+that seem quizzically irrelevant except to credit the initial publisher
+
+probably because they've just utilized a short hello world program to create their message online
+
+and we'll be talking a little more about intellectual property in the series as well
+
+most likely in a new file
+
+hello world
